@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "base_track": "勇者",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-03-23T04:18:13.766010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_勇者_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_勇者_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_勇者_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "YOASOBI, Ayase",
+      "has_synced": true,
+      "path": "select/04_勇者_YOASOBI,_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "YOASOBI, Ayase",
+      "has_synced": true,
+      "path": "select/05_勇者_YOASOBI,_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/06_勇者_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yuusha (勇者)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/07_Yuusha_(勇者)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/08_勇者_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/09_勇者_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/10_勇者_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_勇者_YOASOBI.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/localdb_01_勇者_YOASOBI.lrc",
+      "repo_name": "P9AjQ_aiDBI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "勇者",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/localdb_02_勇者_YOASOBI.lrc",
+      "repo_name": "OIBODIPC_8Y"
+    }
+  ]
+}
